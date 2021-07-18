@@ -1,5 +1,5 @@
 # Options_Pricing
-Methods for Options Pricing using Deep Learning and Machine Learning methods. Project by Finance Club, IIT Madras 
+Methods for Options Pricing using Deep Learning and Machine Learning methods. Project by Finance Club, Indian Institute of Technology, Madras 
 
 The options data from 2010 to 2015 can be found here:
 
